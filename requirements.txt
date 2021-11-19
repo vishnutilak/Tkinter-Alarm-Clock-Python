@@ -2,7 +2,6 @@ annoy
 bokeh
 catboost
 chainer
-ctpn
 deap
 dist-keras
 django
@@ -44,8 +43,6 @@ seaborn
 selenium
 sklearn
 spacy
-sqlalchemy
-sqlite
 statsmodels
 sympy
 tensorflow
