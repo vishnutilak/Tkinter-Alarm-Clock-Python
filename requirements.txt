@@ -9,7 +9,6 @@ elephas
 eli5
 flask
 flask
-geoplotlib
 ggplot
 gleam
 image
@@ -34,7 +33,6 @@ pydot
 pygal
 pygame
 pyglet
-pymc
 pywin32
 scapy
 scipy
@@ -48,6 +46,5 @@ sympy
 tensorflow
 theano
 twisted
-urllib
 wxpython
 xgboost
